@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>eshare-stock-gateway</module>
+        <module>eshare-stock-user</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
